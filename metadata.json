@@ -1,0 +1,5 @@
+{
+  "name": "Next-Gen AI Router",
+  "description": "An intelligent multi-model AI orchestration layer that routes user intents to specialized models.",
+  "requestFramePermissions": []
+}
